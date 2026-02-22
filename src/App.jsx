@@ -35,7 +35,7 @@ export default function Banner() {
       <div className="card" ref={cardRef}>
         <h1>Siddheshwar Jadhav</h1>
         <p className="typing">
-          Full Stack Developer | React | Node | DSA | Spring Boot
+          Full Stack Developer | React | Node | DSA | Spring Boot  
         </p>
       </div>
 
